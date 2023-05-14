@@ -1,0 +1,15 @@
+# CMake generation dependency list for this directory.
+C:/Users/dimas/CODE/FLUTTER/pomodoro2/build/windows/_deps/nuget-subbuild/CMakeFiles/3.25.1-msvc1/CMakeSystem.cmake
+C:/Users/dimas/CODE/FLUTTER/pomodoro2/build/windows/_deps/nuget-subbuild/CMakeLists.txt
+C:/Users/dimas/CODE/FLUTTER/pomodoro2/build/windows/_deps/nuget-subbuild/nuget-populate-prefix/tmp/nuget-populate-mkdirs.cmake
+D:/Visual Studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.25/Modules/CMakeGenericSystem.cmake
+D:/Visual Studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.25/Modules/CMakeInitializeConfigs.cmake
+D:/Visual Studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.25/Modules/CMakeSystemSpecificInformation.cmake
+D:/Visual Studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.25/Modules/CMakeSystemSpecificInitialize.cmake
+D:/Visual Studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.25/Modules/ExternalProject.cmake
+D:/Visual Studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.25/Modules/ExternalProject/RepositoryInfo.txt.in
+D:/Visual Studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.25/Modules/ExternalProject/cfgcmd.txt.in
+D:/Visual Studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.25/Modules/ExternalProject/download.cmake.in
+D:/Visual Studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.25/Modules/ExternalProject/mkdirs.cmake.in
+D:/Visual Studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.25/Modules/Platform/Windows.cmake
+D:/Visual Studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.25/Modules/Platform/WindowsPaths.cmake

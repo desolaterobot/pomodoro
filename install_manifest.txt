@@ -1,0 +1,16 @@
+C:/Users/dimas/CODE/FLUTTER/pomodoro2/build/windows/runner/Debug/data/icudtl.dat
+C:/Users/dimas/CODE/FLUTTER/pomodoro2/build/windows/runner/Debug/flutter_windows.dll
+C:/Users/dimas/CODE/FLUTTER/pomodoro2/build/windows/runner/Debug/audioplayers_windows_plugin.dll
+C:/Users/dimas/CODE/FLUTTER/pomodoro2/build/windows/runner/Debug/url_launcher_windows_plugin.dll
+C:/Users/dimas/CODE/FLUTTER/pomodoro2/build/windows/runner/Debug/data/flutter_assets/AssetManifest.bin
+C:/Users/dimas/CODE/FLUTTER/pomodoro2/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/dimas/CODE/FLUTTER/pomodoro2/build/windows/runner/Debug/data/flutter_assets/assets/bell.mp3
+C:/Users/dimas/CODE/FLUTTER/pomodoro2/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/dimas/CODE/FLUTTER/pomodoro2/build/windows/runner/Debug/data/flutter_assets/fonts/jetbrains.ttf
+C:/Users/dimas/CODE/FLUTTER/pomodoro2/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/dimas/CODE/FLUTTER/pomodoro2/build/windows/runner/Debug/data/flutter_assets/fonts/space.ttf
+C:/Users/dimas/CODE/FLUTTER/pomodoro2/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/dimas/CODE/FLUTTER/pomodoro2/build/windows/runner/Debug/data/flutter_assets/NOTICES
+C:/Users/dimas/CODE/FLUTTER/pomodoro2/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/dimas/CODE/FLUTTER/pomodoro2/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/Users/dimas/CODE/FLUTTER/pomodoro2/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag
